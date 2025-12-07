@@ -1,0 +1,36 @@
+﻿channel,week_number,week_date_range,budget_usd,total_leads,cpl
+Google_Search,14,Aug 5-11,37.35,0,#DIV/0!
+Google_Search,15,Aug 12-18,285.61,2,142.805
+Google_Search,16,Aug 19-25,371.25,3,123.75
+Google_Search,17,Aug 26-Sept1,206,0,#DIV/0!
+Google_Search,18,Sept 2-8,406,9,45.11111111
+Google_Search,19,Sept 9-15,595.99,14,42.57071429
+Google_Search,20,Sept 16-22,540.75,6,90.125
+Google_Search,21,Sept 23-29,416,2,208
+Google_Search,22,Sept 30- Oct6,244,5,48.8
+Google_Search,23,Oct 7-13,376,9,41.77777778
+Google_Search,24,Oct 14-20,325,2,162.5
+Google_Search,25,Oct 21-27,329,4,82.25
+Google_Search,26,Oct 28- Nov3,258.85,2,129.425
+Google_Search,27,Nov 4-10,676,4,169
+Google_Search,28,Nov 11-17,444,1,444
+Google_Search,29,Nov 18-24,78,3,26
+Google_Search,30,Nov 25- Dec1,256,2,128
+Google_Search,31,Dec 2-8,492,4,123
+Google_Search,32,Dec 9-15,302,2,151
+Google_Search,33,Dec 16-22,176,2,88
+Google_Search,34,Dec 23-29,160,1,160
+Google_Search,35,Dec 30-Jan 5,94.21,0,#DIV/0!
+Google_Search,36,Jan 6- 12,118.23,1,118.23
+,37,jan 13-19,,,
+,38,Jan 20-26,,,
+,39,Jan 27- Feb2,,,
+,40,Feb 3-9,,,
+,41,Feb 10-16,,,
+,42,Feb 17-23,,,
+,43,Feb 24-March 2,,,
+,44,March 3-9,,,
+Google_Search,45,March 10-16,351.3,1,351.3
+Google_Search,46,March 17-23,332.38,2,166.19
+Google_Search,47,March 24-30,385,1,385
+Google_Search,48,March 31- April 6,104.81,0,#DIV/0!

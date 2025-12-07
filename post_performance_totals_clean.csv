@@ -1,0 +1,14 @@
+post_id,post_type,ad_spend_usd,leads,eligible_leads,qualified_leads,applicants,enrolled
+Post1,Conversion,964.06,22.0,7.0,3.0,,
+Post2,Conversion,10635.94,276.0,55.0,25.0,4.0,1.0
+Post3,Conversion,3823.04,274.0,9.0,4.0,1.0,1.0
+Post3.1,Conversion,373.08,1.0,0.0,0.0,,
+Post4,Conversion,9698.17,153.0,51.0,27.0,2.0,
+Post5,Conversion,867.17,7.0,0.0,0.0,,
+Post6,Conversion,989.26,15.0,1.0,1.0,,
+Post7,Conversion,988.02,3.0,0.0,,,
+Post8,Conversion,7590.280000000001,102.0,1.0,1.0,,
+Post9,Conversion,1435.27,5.0,0.0,,,
+Post10,Conversion,3162.48,25.0,6.0,5.0,,
+Post10.1,Conversion,1298.85,5.0,2.0,2.0,,
+Post11,Conversion,2248.14,12.0,3.0,3.0,,
